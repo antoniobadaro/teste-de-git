@@ -5,3 +5,4 @@ Repositório para testar o uso do Git e do GitHub
 
 * 2- O ponto 2 está sendo feito no Visual Studio code e sera commitado e feitu um push para a branche feat/testes depois PR para dev e por fim PR para main
 
+* 3- Testando criação de branch seguido de alterações no código
